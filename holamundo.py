@@ -1,3 +1,3 @@
 
 for i in range(30):
-    print("Ok")
+    print("Acta est fabula")
